@@ -4,3 +4,9 @@
 ## ppt截图
 
 ![1](https://github.com/Lex669/hfut-ppt-sample/blob/main/asset/Snipaste_2026-08-17_13-49-33.png)
+
+![2](https://github.com/Lex669/hfut-ppt-sample/blob/main/asset/Snipaste_2026-08-17_13-49-53.png)
+
+![3](https://github.com/Lex669/hfut-ppt-sample/blob/main/asset/Snipaste_2026-08-17_13-50-00.png)
+
+![4](https://github.com/Lex669/hfut-ppt-sample/blob/main/asset/Snipaste_2026-08-17_13-50-06.png)
